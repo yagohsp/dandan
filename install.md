@@ -1,1 +1,1 @@
-sudo pacman -S cmake gcc make glew glfw glm
+sudo pacman -S cmake gcc make glad glfw glm

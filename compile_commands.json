@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/yago/y/dandan",
+  "command": "/usr/bin/cc  -I/home/yago/y/dandan/include  -o CMakeFiles/glad.dir/src/glad.c.o -c /home/yago/y/dandan/src/glad.c",
+  "file": "/home/yago/y/dandan/src/glad.c",
+  "output": "CMakeFiles/glad.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/yago/y/dandan",
+  "command": "/usr/bin/c++  -I/home/yago/y/dandan/include -std=c++17 -o CMakeFiles/app.dir/src/main.cpp.o -c /home/yago/y/dandan/src/main.cpp",
+  "file": "/home/yago/y/dandan/src/main.cpp",
+  "output": "CMakeFiles/app.dir/src/main.cpp.o"
+}
+]
